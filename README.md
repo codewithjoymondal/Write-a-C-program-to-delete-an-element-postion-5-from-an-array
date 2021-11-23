@@ -9,6 +9,6 @@ Input: 4 5 1 3 7 5 24 28
 Output: 4 5 1 3 5 24 28
 
 
-My Youtube : https://www.youtube.com/c/CodeWithJoy
-My Website : https://codewithjoymondal.com/
+My Youtube : https://www.youtube.com/c/CodeWithJoy </br>
+My Website : https://codewithjoymondal.com/ </br>
 My Facebook: https://web.facebook.com/joymondal.me
